@@ -633,7 +633,7 @@
                     <reference value="urn:uuid:e0c5c93a-388e-11ec-8d3d-0242ac130003"/>
                 </definition>
                 <deviceName>
-                    <name value="DiGA 3"/>
+                    <name value="MS-Fatigue-DiGA"/>
                     <type value="user-friendly-name"/>
                 </deviceName>
                 <type>
