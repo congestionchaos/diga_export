@@ -114,6 +114,11 @@
                     <reference value="urn:uuid:cd0a4346-3882-11ec-8d3d-0242ac130003"/>
                 </subject>
                 <authored value="2021-03-01"/>
+
+            <item>
+            <linkId value="group1"/>
+            <text value="koerperliche Fatigue"/>
+
                 <item>
                     <linkId value="1"/>
                     <answer>
@@ -156,6 +161,12 @@
                         <valueInteger value="0"/>
                     </answer>
                 </item>
+            </item>
+
+            <item>
+            <linkId value="group2"/>
+            <text value="mentale Fatigue"/>
+
                 <item>
                     <linkId value="8"/>
                     <answer>
@@ -180,6 +191,7 @@
                         <valueInteger value="2"/>
                     </answer>
                 </item>
+            </item>
             </QuestionnaireResponse>
         </resource>
     </entry>
