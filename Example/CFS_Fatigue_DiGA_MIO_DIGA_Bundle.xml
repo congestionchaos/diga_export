@@ -211,6 +211,10 @@
                 <title value="Chalder-Fatigue-Skala (CFS)"/>
                 <status value="active"/>
                 <date value="2020-02-02"/>
+            <item>
+            <linkId value="group1"/>
+            <text value="koerperliche Fatigue"/>
+            <type value="group"/>
                 <item>
                     <linkId value="1"/>
                     <text value="Ich habe Probleme mit Muedigkeit.."/>
@@ -330,6 +334,12 @@
                         <valueInteger value="3"/>
                     </answerOption>
                 </item>
+            </item>
+
+            <item>
+            <linkId value="group2"/>
+            <text value="mentale Fatigue"/>
+            <type value="group"/>
                 <item>
                     <linkId value="8"/>
                     <text value="Ich finde es schwierig, mich zu konzentrieren.."/>
@@ -398,6 +408,7 @@
                         <valueInteger value="3"/>
                     </answerOption>
                 </item>
+            </item>
             </Questionnaire>
         </resource>
     </entry>
