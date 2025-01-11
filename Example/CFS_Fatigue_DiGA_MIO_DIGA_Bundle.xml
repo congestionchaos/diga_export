@@ -182,7 +182,7 @@
                 <item>
                     <linkId value="10"/>
                     <answer>
-                        <valueInteger value="3"/>
+                        <valueInteger value="1"/>
                     </answer>
                 </item>
                 <item>
@@ -622,7 +622,7 @@
                 </subject>
                 <effectiveDateTime value="2021-03-01"/>
                 <valueQuantity>
-                    <value value="17"/>
+                    <value value="15"/>
                     <unit value="score"/>
                     <system value="http://unitsofmeasure.org"/>
                     <code value="{score}"/>
