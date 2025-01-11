@@ -117,13 +117,13 @@
                 <item>
                     <linkId value="1"/>
                     <answer>
-                        <valueInteger value="0"/>
+                        <valueInteger value="3"/>
                     </answer>
                 </item>
                 <item>
                     <linkId value="2"/>
                     <answer>
-                        <valueInteger value="1"/>
+                        <valueInteger value="3"/>
                     </answer>
                 </item>
                 <item>
@@ -153,7 +153,7 @@
                 <item>
                     <linkId value="7"/>
                     <answer>
-                        <valueInteger value="0"/>
+                        <valueInteger value="2"/>
                     </answer>
                 </item>
                 <item>
@@ -183,7 +183,7 @@
                 <item>
                     <linkId value="12"/>
                     <answer>
-                        <valueInteger value="1"/>
+                        <valueInteger value="3"/>
                     </answer>
                 </item>
                 <item>
@@ -201,7 +201,7 @@
                 <item>
                     <linkId value="15"/>
                     <answer>
-                        <valueInteger value="0"/>
+                        <valueInteger value="1"/>
                     </answer>
                 </item>
             </QuestionnaireResponse>
