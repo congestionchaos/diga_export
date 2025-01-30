@@ -108,7 +108,7 @@
                     <system value="urn:ietf:rfc:3986"/>
                     <value value="urn:uuid:dca579fc-3179-11ec-8d3d-0242ac130003"/>
                 </identifier>
-                <questionnaire value="https://test.test"/>
+                <questionnaire value="https://example.org/fhir/Questionnaire/CFS"/>
                 <status value="completed"/>
                 <subject>
                     <reference value="urn:uuid:cd0a4346-3882-11ec-8d3d-0242ac130003"/>
@@ -152,7 +152,7 @@
                     <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_MIO_DIGA_Questionnaire|1.1.0"/>
                 </meta>
                 <language value="de"/>
-                <url value="https://test.test"/>
+                <url value="https://example.org/fhir/Questionnaire/CFS"/>
                 <identifier>
                     <type>
                         <coding>
