@@ -620,7 +620,16 @@
                 <subject>
                     <reference value="urn:uuid:cd0a4346-3882-11ec-8d3d-0242ac130003"/>
                 </subject>
+
+
+
+
                 <effectiveDateTime value="2021-03-01"/>
+
+                <performer>
+                    <reference value="urn:uuid:cd0a4346-3882-11ec-8d3d-0242ac130003"/>
+                </performer>
+
                 <valueQuantity>
                     <value value="15"/>
                     <unit value="score"/>
